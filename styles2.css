@@ -1,0 +1,69 @@
+.ins, .insa{
+    display:inline-block;
+}
+
+.ins1, .insb{
+    display: inline-block;
+    
+}
+
+.ins2, .insc{
+    display:inline-block;
+}
+
+.ins3, .insd{
+    display: inline-block;
+    
+}
+.ins4, .inse{
+    display: inline-flex;
+    
+}
+
+.ins5, .insf{
+    display: inline-flex;
+}
+
+.main{
+    text-align: left;
+    border-radius: 50px;
+    border:medium solid black;
+    margin: 200px;
+    box-sizing: content-box;
+    padding-left: 25px;
+    padding-top: 75px;   
+    font-size: large; 
+    background-color: beige;
+}
+    
+.ing{
+      text-align: left;
+}
+
+.ins1, .ins2, .ins3, .ins, .ins4, .ins, .ins5{
+    font-weight: bold;
+}
+
+h2{
+    font-size: xx-large;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    font-size: medium;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
+}
+
+body{
+     background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWq-Y-KgpvRYJ2c0HsvfSJuGeqrceYBN70JrfswOaNGFSDkuKPatF3FjQ7ODnWXucyLpk&usqp=CAU) fixed;
+}
+h1{
+    text-align: center;
+}
+.home{
+    text-align: center;
+}
+
+
+

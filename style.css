@@ -1,0 +1,33 @@
+
+body{
+text-align: center;
+padding-left: 285px;
+padding-top: 100px;
+border-width:10px 10px;
+background:url(https://assets.epicurious.com/photos/5c7d6ee0d6c37575ccdd79c3/16:9/w_1920%2Cc_limit/SMALL-PLATES-Chickpea-Flatbread-recipe-27022019.jpg) no-repeat center fixed ;
+}
+.cook{
+text-align: center;
+width: 650px;
+height: 450px;
+border:medium solid black;
+box-sizing: content-box;
+background:beige;
+
+}
+
+.cook1{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.cook2{
+    font-style: italic;
+    width:675px;
+    height:450px;
+}
+img{
+    height:450px;
+    width: 650px;
+}
+
+

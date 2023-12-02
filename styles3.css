@@ -1,0 +1,33 @@
+
+
+body{
+    text-align: center;
+    padding-left: 285px;
+    padding-top: auto;
+    border-width:10px 10px;
+    background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6YmHgJdu1CEzL4bgHeUURc6mBLyy--SwsuTRDEbz7yaDOMdwz7ie5QOXvnObncIqLkcI&usqp=CAU) fixed ;
+    }
+    .cook{
+    text-align: center;
+    width: 650px;
+    height: auto;
+    border:medium solid black;
+    box-sizing: content-box;
+    background:beige;
+    border-radius: 50px 50px 50px 50px;
+    
+    }
+    
+   
+    img{
+        
+        width: 150px;
+        height: 150px;
+        padding-left: 10px;
+        border-radius: 100px 100px 100px 100px;  
+        margin:auto; 
+    }
+    
+    img:hover{
+        opacity: 50%;
+    }
